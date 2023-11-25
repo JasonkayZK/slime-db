@@ -1,0 +1,11 @@
+[package]
+name = "slime-db"
+version = "0.1.0"
+edition = "2021"
+description = "A CRDTs based database."
+repository = "https://github.com/JasonkayZK/slime-db"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
